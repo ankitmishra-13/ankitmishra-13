@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full Stack Developer · MERN Stack · Next.js · Python/FastAPI</b><br/>
-  Mumbai, Maharashtra, India &nbsp;|&nbsp; 📧 <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="60010e0b0914120d5420070d01090c4e030f0d">[email&#160;protected]</a> &nbsp;|&nbsp;
+  Mumbai, Maharashtra, India &nbsp;|&nbsp; 📧 <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="ankitrm4@gmail.com">[email&#160;protected]</a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/ankit-mishra">LinkedIn</a>
 </p>
 
