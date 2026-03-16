@@ -133,4 +133,18 @@ A collection of 6+ full-stack apps — task manager, e-commerce store, blogging 
 
 <p>
   <a href="https://linkedin.com/in/ankit-mishra"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="/cdn-cgi/l/email-protection#58393633312c2a356c183
+  <a href="mailto:ankitrm4@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ankitmishra-13"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://ankitmishra.dev"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/></a>
+</p>
+
+- 🌐 **Portfolio:** [ankitmishra.dev](https://ankitmishra.dev)
+- 📧 **Email:** [ankitrm4@gmail.com](mailto:ankitrm4@gmail.com)
+- 💻 **GitHub:** [@ankitmishra-13](https://github.com/ankitmishra-13)
+- 🔗 **LinkedIn:** [ankit-mishra](https://linkedin.com/in/ankit-mishra)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ankitmishra-13&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
