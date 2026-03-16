@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full Stack Developer · MERN Stack · Next.js · Python/FastAPI</b><br/>
-  Mumbai, Maharashtra, India &nbsp;|&nbsp; 📧 ankitrm4@gmail.com &nbsp;|&nbsp;
+  Mumbai, Maharashtra, India &nbsp;|&nbsp; 📧 <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="60010e0b0914120d5420070d01090c4e030f0d">[email&#160;protected]</a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/ankit-mishra">LinkedIn</a>
 </p>
 
@@ -16,7 +16,7 @@ I'm a results-driven **Full Stack Developer** with 10+ months of professional ex
 - ⚡ Delivered measurable impact: **25% ↑ user engagement**, **30% ↑ app performance**, **20% ↓ page load time**
 - 🌱 Exploring **GraphQL**, advanced **DevOps**, and **System Design**
 - 💬 Ask me about MERN stack, Next.js SSR/SSG, API design, or payment integrations
-- 📫 Reach me at **ankitrm4@gmail.com**
+- 📫 Reach me at **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="a4c5cacfcdd0d6c990e4c3c9c5cdc88ac7cbc9">[email&#160;protected]</a>**
 
 ---
 
@@ -104,15 +104,33 @@ A collection of 6+ full-stack apps — task manager, e-commerce store, blogging 
 
 ---
 
-### 📬 Let's Connect
+---
 
-<p>
-  <a href="https://linkedin.com/in/ankit-mishra"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ankitrm4@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+### 📊 GitHub Performance & Activity
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>🚀 GitHub Stats</b><br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ankitmishra-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    </td>
+    <td align="center" width="50%">
+      <b>🛠️ Most Used Languages</b><br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitmishra-13&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitmishra-13&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankitmishra-13&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+### 📬 Let's Connect
+
+<p>
+  <a href="https://linkedin.com/in/ankit-mishra"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="/cdn-cgi/l/email-protection#58393633312c2a356c183
