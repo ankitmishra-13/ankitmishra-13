@@ -2,8 +2,8 @@
 
 <p align="center">
   <b>Full Stack Developer · MERN Stack · Next.js · Python/FastAPI</b><br/>
-  Mumbai, Maharashtra, India &nbsp;|&nbsp; 📧 <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="ankitrm4@gmail.com">[email&#160;protected]</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/ankit-mishra">LinkedIn</a>
+  Mumbai, Maharashtra, India &nbsp;|&nbsp; 📧 <a href="mailto:ankitrm4@gmail.com">ankitrm4@gmail.com</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/ankit-mishra-74b070245/">LinkedIn</a>
 </p>
 
 ---
@@ -16,7 +16,7 @@ I'm a results-driven **Full Stack Developer** with 10+ months of professional ex
 - ⚡ Delivered measurable impact: **25% ↑ user engagement**, **30% ↑ app performance**, **20% ↓ page load time**
 - 🌱 Exploring **GraphQL**, advanced **DevOps**, and **System Design**
 - 💬 Ask me about MERN stack, Next.js SSR/SSG, API design, or payment integrations
-- 📫 Reach me at **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="a4c5cacfcdd0d6c990e4c3c9c5cdc88ac7cbc9">[email&#160;protected]</a>**
+- 📫 Reach me at **<a href="mailto:ankitrm4@gmail.com">ankitrm4@gmail.com</a>**
 
 ---
 
@@ -132,7 +132,7 @@ A collection of 6+ full-stack apps — task manager, e-commerce store, blogging 
 ### 📬 Let's Connect
 
 <p>
-  <a href="https://linkedin.com/in/ankit-mishra"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ankit-mishra-74b070245/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ankitrm4@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/ankitmishra-13"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://ankitmishra.dev"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/></a>
@@ -141,7 +141,7 @@ A collection of 6+ full-stack apps — task manager, e-commerce store, blogging 
 - 🌐 **Portfolio:** [ankitmishra.dev](https://ankitmishra.dev)
 - 📧 **Email:** [ankitrm4@gmail.com](mailto:ankitrm4@gmail.com)
 - 💻 **GitHub:** [@ankitmishra-13](https://github.com/ankitmishra-13)
-- 🔗 **LinkedIn:** [ankit-mishra](https://linkedin.com/in/ankit-mishra)
+- 🔗 **LinkedIn:** [ankit-mishra](https://www.linkedin.com/in/ankit-mishra-74b070245/)
 
 ---
 
