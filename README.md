@@ -64,8 +64,6 @@ I move between interface decisions, backend constraints, and release work so the
   <img src="https://img.shields.io/badge/Current%20Streak-7%20days-orange?style=for-the-badge" />
 </p>
 
-> Streak badge is set manually for now — swap the number as it changes. GitHub doesn't expose streak data via its API, so this can't be made live without a self-hosted service (happy to set that up later if you want it fully automatic).
-
 ## Selected Work
 
 - **[eZhog](https://ankitmishra.dpdns.org/work/ezhog)** — AI learning platform with research, quiz generation, and problem solving in one product flow
