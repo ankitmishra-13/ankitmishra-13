@@ -5,7 +5,7 @@ Full Stack Developer based in Mumbai, India, building SaaS, AI, and document pro
 </p>
 
 <p align="center">
-  <a href="https://ankitmishra.dpdns.org"><img src="https://img.shields.io/badge/Portfolio-ankitmishra.dpdns.org-090a0a?style=for-the-badge" /></a>
+  <a href="https://ankitm.dev"><img src="https://img.shields.io/badge/Portfolio-ankitm.dev-090a0a?style=for-the-badge" /></a>
   <a href="mailto:ankitrm4@gmail.com"><img src="https://img.shields.io/badge/Email-ankitrm4%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ankit-mishra-74b070245/"><img src="https://img.shields.io/badge/LinkedIn-Ankit%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
