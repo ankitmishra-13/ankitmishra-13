@@ -5,7 +5,7 @@ Full Stack Developer based in Mumbai, India, building SaaS, AI, and document pro
 </p>
 
 <p align="center">
-  <a href="https://ankitm.dev"><img src="https://img.shields.io/badge/Portfolio-ankitm.dev-090a0a?style=for-the-badge" /></a>
+  <a href="https://ankitmishra.dpdns.org"><img src="https://img.shields.io/badge/Portfolio-ankitmishra.dpdns.org-090a0a?style=for-the-badge" /></a>
   <a href="mailto:ankitrm4@gmail.com"><img src="https://img.shields.io/badge/Email-ankitrm4%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ankit-mishra-74b070245/"><img src="https://img.shields.io/badge/LinkedIn-Ankit%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
@@ -59,13 +59,12 @@ I move between interface decisions, backend constraints, and release work so the
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ankitmishra-13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitmishra-13&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/ankitmishra-13?style=for-the-badge&color=blueviolet&label=Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=blue&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fankitmishra-13" />
+  <img src="https://img.shields.io/badge/Current%20Streak-7%20days-orange?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ankitmishra-13&theme=tokyonight&hide_border=true" />
-</p>
+> Streak badge is set manually for now — swap the number as it changes. GitHub doesn't expose streak data via its API, so this can't be made live without a self-hosted service (happy to set that up later if you want it fully automatic).
 
 ## Selected Work
 
