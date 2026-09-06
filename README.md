@@ -61,7 +61,7 @@ I move between interface decisions, backend constraints, and release work so the
 <p align="center">
   <img src="https://img.shields.io/github/followers/ankitmishra-13?style=for-the-badge&color=blueviolet&label=Followers" />
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=blue&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fankitmishra-13" />
-  <img src="https://img.shields.io/badge/Current%20Streak-5%20days-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Current%20Streak-10%20days-orange?style=for-the-badge" />
 </p>
 
 ## Selected Work
