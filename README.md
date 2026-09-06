@@ -66,14 +66,14 @@ I move between interface decisions, backend constraints, and release work so the
 
 ## Selected Work
 
-- **[eZhog](https://ankitmishra.dpdns.org/work/ezhog)** — AI learning platform with research, quiz generation, and problem solving in one product flow
-- **[DulyPlan](https://ankitmishra.dpdns.org/work/dulyplan)** — Social media planning product with cloud media handling
-- **[CreateReceipt](https://ankitmishra.dpdns.org/work/create-receipt)** — Custom receipt and invoice generator
-- **[HopeOF](https://ankitmishra.dpdns.org/work/hopeof)** — Document studio for turning everyday details into polished documents
-- **[DwellHomes.in](https://ankitmishra.dpdns.org/work/dwellhomes)** — Property platform with a built-in CMS and lead-to-customer CRM
-- **[SD Infinity Exports](https://ankitmishra.dpdns.org/work/sd-infinity-exports)** — Export business website designed and launched end to end
+- **[eZhog](https://ankitm.dev/work/ezhog)** — AI learning platform with research, quiz generation, and problem solving in one product flow
+- **[DulyPlan](https://ankitm.dev/work/dulyplan)** — Social media planning product with cloud media handling
+- **[CreateReceipt](https://ankitm.dev/work/create-receipt)** — Custom receipt and invoice generator
+- **[HopeOF](https://ankitm.dev/work/hopeof)** — Document studio for turning everyday details into polished documents
+- **[DwellHomes.in](https://ankitm.dev/work/dwellhomes)** — Property platform with a built-in CMS and lead-to-customer CRM
+- **[SD Infinity Exports](https://ankitm.dev/work/sd-infinity-exports)** — Export business website designed and launched end to end
 
-See full case studies at [ankitmishra.dpdns.org](https://ankitmishra.dpdns.org).
+See full case studies at [ankitm.dev](https://ankitm.dev).
 
 ## Impact
 
